@@ -28,10 +28,10 @@ Now some people say that you need to "compile python with ssl support". But it a
 
 So here it is for my own reference:
 
-    1. Download the openssl-dev packages! Yes... you need them: `sudo yum install openssl-dev*`
-    2. Download python2.5
-    3. Configure it: `./configure`
-    4. Build it: `sudo make`
-    5. Alt-install it to make it reside near your current python install: `sudo make altinstall`
+1. Download the openssl-dev packages! Yes... you need them: `sudo yum install openssl-dev*`
+2. Download python2.5
+3. Configure it: `./configure`
+4. Build it: `sudo make`
+5. Alt-install it to make it reside near your current python install: `sudo make altinstall`
 
 Now download App-Engine and make sure to use python2.5 command with it.
