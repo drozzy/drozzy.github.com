@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Installing Python 2.5 in Fedora 12 for Google App Engine
 ---
 
