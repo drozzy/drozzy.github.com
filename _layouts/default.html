@@ -16,8 +16,16 @@
 
 <body>
     <div class="container">
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <div class="row">
+            <!-- left col -->
+            <div class="span3">
+            </div>
+            <!-- right col - content -->
+            <div class="span6">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+        </div><!-- row -->
     </div>
 </body>
 </html>
