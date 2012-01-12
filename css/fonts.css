@@ -10,7 +10,7 @@ body{
     line-height: 1.4;
 }
 
-h1{
+.blog-title{
     font-family: 'IM Fell English', serif;
     font-style: normal;
     font-weight: 400;
@@ -22,7 +22,7 @@ h1{
     line-height: 1.4;
 }
 
-h2{
+h1{
     font-family: 'Cabin', sans-serif;
     font-style: normal;
     font-weight: 400;

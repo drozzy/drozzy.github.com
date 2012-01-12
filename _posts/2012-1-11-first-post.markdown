@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Installing Python 2.5 in Fedora 12 for Google App Engine
 ---
+
+Installing Python 2.5 in Fedora 12 for Google App Engine
+=========================================================
 
 *NOTE: This is a test post from my old blog...*
 
