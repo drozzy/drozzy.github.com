@@ -1,33 +1,37 @@
 ---
 layout: default
-title: First Post
+title: Installing Python 2.5 in Fedora 12 for Google App Engine
 ---
 
-### Hello world
-Lorem ipsum dolor sit amet, ad vim constituam voluptatibus, duo fastidii ponderum sensibus an. Te illud aperiri vis. Cum ad facer aliquam. Vis quaeque pertinacia contentiones in, mucius definitiones eum ut, commune noluisse pericula vim eu.
+*NOTE: This is a test post from my old blog...*
 
-Here is some interesting code:
+This stupid install process gets me every time! How do you run Google App Engine which currently requires Python2.5 on a machine that has Python2.6 installed? This also goes for anybody trying to use Django with App-Engine.
 
-    var x = y;
-    x + y = 3
-    <h1>Hello</h1>
+Everytime I try I get an error like this:
 
-And I also can do a list:
-
-* Red
-* Green
-* Blue
-
-1. Order
-2. Is 
-3. Great
-    
-Putent prompta ancillae cu eam, timeam scripta adipisci nec et, ei ubique intellegebat his. Et aperiri prodesset scripserit vix, audire pertinacia eu sit, ea eos rebum antiopam accommodare. Tollit vulputate pri te, suas populo in per. Ut adhuc veniam gloriatur est, mei civibus denique reprimique an, eum agam partem legimus ei. Usu an putant utroque, tota impedit at mei. Nostro aeterno sea ut, eos ut harum laboramus mediocritatem, mel ad altera tibique pertinacia.
+    Traceback (most recent call last):
+    File "/home/andriy/lib/google_appengine/dev_appserver.py", line 68, in 
+    run_file(__file__, globals())
+    File "/home/andriy/lib/google_appengine/dev_appserver.py", line 64, in run_file
+    execfile(script_path, globals_)
+    File "/home/andriy/lib/google_appengine/google/appengine/tools/dev_appserver_main.py", line 82, in 
+    from google.appengine.tools import appcfg
+    File "/home/andriy/lib/google_appengine/google/appengine/tools/appcfg.py", line 59, in 
+    from google.appengine.tools import appengine_rpc
+    File "/home/andriy/lib/google_appengine/google/appengine/tools/appengine_rpc.py", line 32, in 
+    https_handler = urllib2.HTTPSHandler
+    AttributeError: 'module' object has no attribute 'HTTPSHandler'
 
 
-> In volutpat molestiae eam, cu platonem salutandi torquatos cum, mel autem populo utamur cu. Quis inermis ad per, te solum gloriatur mei. Eam paulo nostrud definiebas cu, mel in quot lorem assum. Ne eam rebum disputando deterruisset. Mea ei affert denique imperdiet, meis assueverit mediocritatem cu has.
+Now some people say that you need to "compile python with ssl support". But it ain't so. There is actually nothing to configure in the python install to make it include ssl. Python finds the ssl libraries automatically if they are installed. The trick is you need the dev ssl libraries.
 
-Vim congue iudico definitiones eu, augue persequeris eum te. Pri ei feugiat vivendo, perfecto ullamcorper et sea, an epicurei consetetur vim. Solet iuvaret eu cum, quo eu tritani petentium. At legimus expetendis nam.
 
-Recusabo patrioque id eum, ea nonumy repudiandae liberavisse mel. At vim quod tale eros. Eu pri hinc blandit, mel vide nulla constituam et, sale mutat officiis per ad. Ei quo partem scaevola, cu minim omnium fierent nec, te menandri atomorum pri. Per no vero nusquam probatus, qui eu option ceteros.
+So here it is for my own reference:
 
+    1. Download the openssl-dev packages! Yes... you need them: `sudo yum install openssl-dev*`
+    2. Download python2.5
+    3. Configure it: `./configure`
+    4. Build it: `sudo make`
+    5. Alt-install it to make it reside near your current python install: `sudo make altinstall`
+
+Now download App-Engine and make sure to use python2.5 command with it.
