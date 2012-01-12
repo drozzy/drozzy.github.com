@@ -2,27 +2,24 @@
 <html>
 <head>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <!-- 960 -->
-    <link rel="stylesheet" href="/css-lib/960/reset.css" type="text/css" />
-    <link rel="stylesheet" href="/css-lib/960/960.css" type="text/css" />
 
+    <!-- Twitter bootstrap -->
+
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
     <!-- css for fonts -->
     <link href='http://fonts.googleapis.com/css?family=Cabin|IM+Fell+English' rel='stylesheet' type='text/css'>
     <!-- my stylesheets -->
     <link rel="stylesheet" href="/css/fonts.css" type="text/css" />
-    <link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
     
 <title>{{ page.title }}</title>
 </head>
 
 <body>
-    <div class="container_12">
-        <div class="grid_8 prefix_3">
+    <div class="container">
+        <div class="row">
             <h1>{{ page.title }}</h1>
-        </div>
-        <div class="grid_6 prefix_3 suffix_3">
             {{ content }}
         </div>
-    <div class="container">
+    </div>
 </body>
 </html>
