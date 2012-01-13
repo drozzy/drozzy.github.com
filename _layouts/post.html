@@ -1,16 +1,22 @@
 ---
 layout: default
 ---
-
-<body>
-    <div class="container">
-        <div class="row">
-            <!-- left col -->
-            <!-- right col - content -->
-            <div class="offset4 span7">
-                {{ content }}
-            </div>
-        </div><!-- row -->
+<div class="row">
+    <div class="span7 offset4">
+    <div class="page-title"><a
+            style="text-decoration:none;color:black;" href="/">{{page.title}}</a></div>
     </div>
-</body>
-</html>
+</div>
+<div class="row">
+    <!-- left col -->
+    <!-- right col - content -->
+    <div class="offset4 span7">
+        <div>
+            By <a href="/">Andriy Drozdyuk</a> <em style='display:block;margin-bottom:15px;'>Posted
+            on {{page.date|date_to_long_string}}.</em>
+    </div>
+        {{content}}
+
+    </div>
+
+</div><!-- row -->

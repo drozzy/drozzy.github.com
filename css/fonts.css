@@ -1,4 +1,8 @@
 body{
+    background-color:#F8F8FF;
+}
+body{
+
     font-family: 'Cabin', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -9,28 +13,28 @@ body{
     word-spacing: 0em;
     line-height: 1.4;
 }
+p{
+    font-size: 14px;
+    margin-bottom:12px;
+}
+em{
+    font-size: 13px;
+}
 
-.blog-title{
+.page-title{
     font-family: 'IM Fell English', serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 48px;
     text-transform: none;
     text-decoration: none;
     letter-spacing: 0.025em;
     word-spacing: -0.002em;
     line-height: 1.4;
+    margin-bottom: 30px;
 }
 
-h1{
-    font-family: 'Cabin', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    text-transform: none;
-    text-decoration: none;
-    letter-spacing: 0em;
-    word-spacing: 0em;
-    line-height: 1.4;
+.post{
+    border-bottom: 1px dashed gray;
+    margin-bottom: 40px;
 }
-
