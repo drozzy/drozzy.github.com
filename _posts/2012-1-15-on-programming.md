@@ -19,7 +19,7 @@ learn a thing or two from them.
 Workday
 =======
 The very same work day of three hours per day, mentioned earlier, is not just a random number, made up randomly by writers because they are lazy. It is there exactly because that is the extent of how
-much creative work a human can do to their full potential during the day. So when you say that you work ten hours a day, how much work are you really doing?
+much creative work a human can do to their full potential during the day. So, when you say that you work ten hours a day, how much work are you really doing?
 
 Elementary principles
 =====================
