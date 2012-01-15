@@ -4,8 +4,8 @@ title: On Programming
 ---
 
 Writers write. They say that if you want to be better at writing the only way to do it is to sit down and write.
-There is no other way. Reading books, going to workshops wont help; there is no manual on how to get better at being a writer. Because if there was,
-then anyone could become a great writer, publish a great book, and make a lot of money.
+There is no other way. Reading books on "becoming a better writer", going to workshops won't help; there is no manual on how to become a famous writer. Because if there was,
+then anyone could become a great writer, publish a great book, and make a lot of money. And most of the writers I know, are far from millioners.
 
 The only way to get better is to write. A lot.
 
@@ -55,8 +55,8 @@ This next piece of advice, took me about ten years to understand.
 I was always taught to break up my code into functions; sometimes even put a bunch of functions into 
 a separate file. The focus was always on breaking code into smaller pieces, emphasizing reuse and avoid copying. But nobody ever 
 told me that I should group related functions, variables and other things close together - so that they would be easy to read, without 
-jumping from one file to another. After all, if you are reading a novel, you can't imagine jumping to footnote and the back over to main text - this 
-would distract from the main flow of the story! So why, if I am reading you code, should I jump from one module or file to another and then to another to figure out
+jumping from one file to another. After all, if you are reading a novel, you can't imagine jumping to footnote and then back over to main text - this 
+would distract from the main flow of the story! So why, if I am reading you code, should I jump from one file to another and another to figure out
 exactly what story you are telling me?
 
 Conclusion
