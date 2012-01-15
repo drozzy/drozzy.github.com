@@ -63,4 +63,4 @@ Conclusion
 ==========
 While I could go on and try to stretch this even further, I won't. What I am trying to say is that if writers, who were around for thousands of years,
 still can't get their stuff right - need to practice their craft every day and read rule books to not forget how to do what it is they do - how can such a young profession
-as a programmer claim to be perfect in it's practice? You cannot afford to stop learning and refining the way you learn. And maybe, take a few tips from other, older, professions?
+as a programmer claim to be perfect in it's practice? You cannot afford to stop learning and refining the way you learn. And maybe, take a few tips from other older professions?
