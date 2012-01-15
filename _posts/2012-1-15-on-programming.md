@@ -24,7 +24,7 @@ much creative work a human can do to their full potential during the day. So, wh
 Elementary principles
 =====================
 
-Here I will blatantly rip off the writer's bible known as Strunk & White, which details some of the core principles that most writers must follow. While these rules are not agreed upon
+Here I will blatantly rip off the writer's bible known as [Strunk & White][http://en.wikipedia.org/wiki/The_Elements_of_Style], which details some of the core principles that most writers must follow. While these rules are not agreed upon
 by all, it is the consensus the if you want to break the rules, you must, at least, know what the rules are.
 
 Choose a suitable design and hold to it
