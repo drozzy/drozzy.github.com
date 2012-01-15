@@ -10,8 +10,8 @@ then anyone could become a great writer, publish a great book, and make a lot of
 The only way to get better is to write. A lot.
 
 If you are a programmer - you write. You write a lot. You write every day. You write at work, at home, in the morning, in the evening, and sometimes even when you sleep.
-Whether you write for work or for fun, is irrelevant. Most writers don't write at work and then write at home. Their writing consists of about three hours every day. Compare that to the either to
-fifteen hours most programmers spend on writing.
+Whether you write for work or for fun, is irrelevant. Most writers don't write at "work" and then at home. Their writing consists of about three hours every day (unless they are journalists of course). Compare that to the
+fifteen hours for most programmers.
 
 Isn't it curious then, how being a writer is regarded so highly by many people, as being a hard occupation? Nevertheless, writer is a much older occupation than a programmer, so we could probably
 learn a thing or two from them. 
@@ -63,4 +63,5 @@ Conclusion
 ==========
 While I could go on and try to stretch this even further, I won't. What I am trying to say is that if writers, who were around for thousands of years,
 still can't get their stuff right - need to practice their craft every day and read rule books to not forget how to do what it is they do - how can such a young profession
-as a programmer claim to be perfect in it's practice? You cannot afford to stop learning and refining the way you learn. And maybe, take a few tips from other older professions?
+as a programmer claim to be perfect in it's practice? You cannot afford to stop learning and refining the way you learn. And maybe, take a few tips from other older professions. Unless, of course, 
+you want to stay a journalist all your life.
