@@ -25,7 +25,7 @@ Elementary principles
 =====================
 
 Here I will blatantly rip off the writers' bible [The Elements of Style](http://en.wikipedia.org/wiki/The_Elements_of_Style), which details some of the core principles that most writers must follow. While these rules are not agreed upon
-by all, it is the consensus the if you want to break the rules, you must, at least, know what they are.
+by all, it is the consensus that if you want to break the rules, you must, at least, know what they are.
 
 Choose a suitable design and hold to it
 ---------------------------------------
