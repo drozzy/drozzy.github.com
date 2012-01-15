@@ -5,7 +5,7 @@ title: On Programming
 
 Writers write. They say that if you want to be better at writing the only way to do it is to sit down and write.
 There is no other way. Reading books on "becoming a better writer" and going to "inspiration" workshops won't help; there is no manual on how to become a famous writer. Because if there was,
-then anyone could become a great writer, publish a great book, and make a lot of money. And most of the writers I know, are far from millioners.
+then anyone could become a great writer, publish a great book, and make a lot of money. And most of the writers I know, are far from millionaires.
 
 The only way to get better is to write. A lot.
 
