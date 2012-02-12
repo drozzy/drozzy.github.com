@@ -5,7 +5,7 @@ title: Better Vim Configuration
 
 Having gotten tired of constantly re-configuring my Vim on every computer, I've
 decided to create a Git repository to store all the stuff. I've made it public,
-available for anyone to use: https://bitbucket.org/drozdyuk/vimfiles
+available for anyone to use: [](https://bitbucket.org/drozdyuk/vimfiles)
 
 What are the advantages of using Git to manage your Vim configuration?
 
