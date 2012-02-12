@@ -3,13 +3,16 @@ layout: post
 title: Better Vim Configuration
 ---
 
+![Vimfiles Git project](images/vimfiles.png)
+
 Having gotten tired of constantly re-configuring my Vim on every computer, I've
 decided to create a Git repository to store all the stuff. I've made it public,
 available for anyone to use: [https://bitbucket.org/drozdyuk/vimfiles](https://bitbucket.org/drozdyuk/vimfiles)
 
+
 What are the advantages of using Git to manage your Vim configuration?
 
-1. Having a good base to start from. You don't need to fight with the ugly
+1. Good base to start from. You don't need to fight with the ugly
    default configuration of Vim.
 
 2. Better plugin management. By using Git, you can take advantage of Git's submodules feature, which allows 
