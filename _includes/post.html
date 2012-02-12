@@ -1,0 +1,21 @@
+<div class="post">
+<div class="row">
+    <div class="span7 offset4">
+    <div class="page-title"><a
+            style="text-decoration:none;color:black;" href="#{{post.title}}">{{post.title}}</a></div>
+    </div>
+</div>
+<div class="row">
+    <!-- left col -->
+    <!-- right col - content -->
+    <div class="offset4 span7">
+        <div>
+            By <a href="/">Andriy Drozdyuk</a> <em style='display:block;margin-bottom:15px;'>Posted
+            on {{post.date|date_to_long_string}}.</em>
+    </div>
+        {{post.content}}
+
+    </div>
+
+</div><!-- row -->
+</div>
