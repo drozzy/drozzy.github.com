@@ -4,7 +4,7 @@ title: Figuring out the Label and Caption in LaTeX
 ---
 
 Sometimes, when you place the label and caption inside the figure out of order, you get 
-wierd numbering in your document when you go to reference that figure. What many people don't realize
+weird numbering in your document when you go to reference that figure. What many people don't realize
 is that there is a reason for this madness and it is much easier to understand why this happens, then
 to try and remmember the order in which these things should go.
 
