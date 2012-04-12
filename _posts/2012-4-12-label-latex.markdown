@@ -70,10 +70,9 @@ While `Figure \ref{fig:blah}` will actually refer to the thing we want and will 
 Conclusion
 ==========
 
-Since it is difficult to remember which goes first, caption or label,
-inside your figure, understanding why the order matters completely
-removes the need for memorization. Since the caption command is
-responsible for sectioning the figure environment, we know that we must
-call it at least once before using the label command.  By knowing the
-why we can immediately deduce the how - and that makes all the
-difference!
+Since it is difficult to remember which goes first - caption or label
+- understanding why the order matters completely removes the need for
+memorization. Since the caption command is responsible for sectioning
+the figure environment, we know that we must call it at least once
+before using the label command.  By knowing the why we can immediately
+deduce the how - and that makes all the difference!
