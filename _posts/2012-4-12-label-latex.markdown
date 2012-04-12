@@ -63,4 +63,17 @@ So, if we have something like:
       \label{fig:blah}
     \end{figure}
 
-we now know that `Section \ref{sec:one}` will refer to the section of the document in the text (something like *Section 2.11*), while `Figure \ref{fig:blah}` will actually refer to the thing we want (something like *Figure 1*).
+we now know that `Section \ref{sec:one}` will refer to the section of the document in the text and will produce something like `Section 2.11`.
+
+While `Figure \ref{fig:blah}` will actually refer to the thing we want and will produce something like `Figure 1`.
+
+Conclusion
+==========
+
+Since it is difficult to remember which goes first, caption or label,
+inside your figure, understanding why the order matters completely
+removes the need for memorization. Since the caption command is
+responsible for sectioning the figure environment, we know that we must
+call it at least once before using the label command.  By knowing the
+why we can immediately deduce the how - and that makes all the
+difference!
