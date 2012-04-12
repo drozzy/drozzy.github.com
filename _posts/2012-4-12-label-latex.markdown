@@ -81,4 +81,4 @@ difference!
 Reference
 =========
 
-I would be lying if I said that I figured this out *(no pun intended)* on my own. The book "LaTeX: A Document Preparation System (2nd Edition)" by Leslie Lamport, as old as it is, was the primary source for my understanding of this topic.
+I would be lying if I said that I figured this out *(no pun intended)* on my own. The book "LaTeX: A Document Preparation System (2nd Edition)" by Leslie Lamport---as old as it is---was the primary source for my understanding of this topic.
