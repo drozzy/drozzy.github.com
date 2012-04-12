@@ -77,3 +77,8 @@ responsible for sectioning the figure environment, we know that we must
 call it at least once before using the label command.  By knowing the
 why we can immediately deduce the how - and that makes all the
 difference!
+
+Reference
+=========
+
+I would be lying if I said I figured (*no pun intended*) this out on my own. The book "LaTeX: A Document Preparation System (2nd Edition)" by Leslie Lamport, as old as it is, was the primary source for my understanding of this topic.
