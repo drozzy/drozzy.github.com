@@ -45,14 +45,14 @@ label command acts differently. For example, in eqnarray
 environment the label can go anywhere before the \\\\ that ends the
 current equation - effectively giving each equation it's own label!
 
-> **Remember**: A figure may have multiple captions
-
 The figure environment has different rules. In particular, the thing
 that creates numbering inside the figure environment is the caption
 command. A figure may have multiple captions, creating multiple
 "sections" within the figure. On other hand, if the caption command is
 never used, the label still uses the text numbering (which is the
 number of the section of the document it is in).
+
+> **Remember**: A figure may have multiple captions
 
 So, if we have something like:
 
