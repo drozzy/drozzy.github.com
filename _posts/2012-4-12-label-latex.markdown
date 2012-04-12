@@ -24,7 +24,11 @@ Longer version
 To understand what is going on we must establish a few things. First, a label command when placed anywhere in the document will label the section of the document in which it is places. So something like this:
 
     Section \ref{sec-one} is great!  
-    \subsection{First section}\label{sec-one} This is the first section</code>
+
+    \subsection{First section}
+    \label{sec-one} 
+
+    This is the first section
 
 Will produce:
 
@@ -38,10 +42,10 @@ Second, label command appearing in a *numbered* environment acts
 differently. Numbered environments are things like equation, eqnarray,
 enumerate, figure, table... In each of these environments the
 label command acts differently. For example, in eqnarray
-environment the label can go anywhere before the \\ that ends the
+environment the label can go anywhere before the \\\\ that ends the
 current equation - effectively giving each equation it's own label!
 
-> A figure may have multiple captions
+> **Remember**: A figure may have multiple captions
 
 The figure environment has different rules. In particular, the thing
 that creates numbering inside the figure environment is the caption
