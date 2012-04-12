@@ -75,7 +75,7 @@ inside your figure, understanding why the order matters completely
 removes the need for memorization. Since the caption command is
 responsible for sectioning the figure environment, we know that we must
 call it at least once before using the label command.  By knowing the
-why we can immediately deduce the how - and that makes all the
+why we can immediately deduce the how. And that, makes all the
 difference!
 
 Reference
