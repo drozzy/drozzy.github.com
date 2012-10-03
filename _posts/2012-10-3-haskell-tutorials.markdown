@@ -74,7 +74,7 @@ get confused. So, yes, import the Prelude types and functions explicitly.
 
 Put Source in Single File
 ==========================
-When a new user is getting acquianted with the new library or framework, the last thing he needs 
+When a new user is getting acquainted with the new library or framework, the last thing he needs 
 to worry about is file or module structure. The user needs to see how components interact with each
 other. Keeping all the source code in one file (even if long) allows the user to quickly to a text
 search for a relevant piece of code.
@@ -84,7 +84,7 @@ most frameworks provide in a form of starter app or a project template.
 
 Err on the side of More Comments
 ================================
-Even if you are writting a tutorial, and showing snippets of code, it does
+Even if you are writing a tutorial, and showing snippets of code, it does
 not hurt to put comments in that code as well. For example:
 
     -- We'll need this for return types
@@ -142,5 +142,5 @@ signature:
 
 and here is the explanation:
 
-    > EventState is a type function. EventState IncCountBy results in the type CounterState. So that reduces to AcidState CounterState. So, we see that we can not accidently call the IncCountBy event against an acid state handle of the wrong type.
+> EventState is a type function. EventState IncCountBy results in the type CounterState. So that reduces to AcidState CounterState. So, we see that we can not accidently call the IncCountBy event against an acid state handle of the wrong type.
 
