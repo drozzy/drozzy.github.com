@@ -1,24 +1,6 @@
 body{
     background-color:#F8F8FF;
 }
-.container{
-    font-family: 'Cabin', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    text-transform: none;
-    text-decoration: none;
-    letter-spacing: 0em;
-    word-spacing: 0em;
-    line-height: 1.4;
-}
-p{
-    font-size: 14px;
-    margin-bottom:12px;
-}
-em{
-    font-size: 13px;
-}
 
 .page-title{
     font-family: 'IM Fell English', serif;
