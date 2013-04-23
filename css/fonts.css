@@ -19,6 +19,8 @@ body{
 }
 .post h1{
    font-size: 31.5px;
+   margin-bottom: 5px;
+   margin-top: 15px;
 }
 
 .post{
