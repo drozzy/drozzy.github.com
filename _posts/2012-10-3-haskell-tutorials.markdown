@@ -1,9 +1,7 @@
 ---
 layout: post
+title: Tutorial on How to write a Haskell Tutorial
 ---
-
-Tutorial on How to write a Haskell Tutorial
---------------------------------------------
 
 Over the course of reading many tutorials and examples for Haskell and it's libraries,
 I can say that there are some things that are an absolute requirement for
