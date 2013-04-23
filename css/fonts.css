@@ -25,6 +25,8 @@ body{
 .post h2{
    font-size: 28.5px;
    margin-bottom: 5px;
+   margin-top: 15px;
+   font-weight: normal;
 }
 
 .post{
