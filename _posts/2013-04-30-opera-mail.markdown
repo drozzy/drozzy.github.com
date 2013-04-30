@@ -5,7 +5,7 @@ title: Opera Mail or Alternative To Google Reader
 
 I'll keep this short.
 
-Google Reader is dead. Chrome does not have a built-in RSS reader. Opera does, it's called Opera Mail. It looks like this:
+Google Reader is dead. Chrome does not have a built-in RSS reader. [Opera](http://www.opera.com/) does, it's called Opera Mail. It looks like this:
 
 ![Opera Mail](/images/operaFeeds.jpg)
 
