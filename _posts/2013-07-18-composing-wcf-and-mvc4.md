@@ -9,7 +9,6 @@ Composition Root
 ==================
 The first thing you need to do is have a composition root. This is a place where all your dependencies will be specified. Here, you specify that "this implementation" provides "this interface". You should have one composition root per application. If your code consists of multiple applications, like WCF services or ASP.NET MVC web applications---then you need to have multiple composition roots. Of course, you could create some shared code and reuse it in each, but ultimately each application will need to compose itself.
 
-Example
-+++++++
+
 
 To be continued... (pending examples, di framework recommendation, book recommendation)
