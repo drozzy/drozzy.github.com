@@ -17,13 +17,13 @@ This is an analogy to Natural Selection and Evolution, where the former is liken
 
 > [To draw a physical analogy,] the *evolution* might be deduced from the *natural selection*, yet it would have been an unfortunate limitation, involving a great deal of confusion, if *natural selection* had only received consideration in connexion with the evolution. In this case it is clear that the particular physical phenomena [biological evolution] examined are of little theoretical interest compared to the principle by which they can be elucidated [natural selection].
 
-Here we see that *Evolution* is likened to the actual physical phenomena, what is observable. Whereas *Natural Selection* is likened to the principles by which the former may be explained. When looked at these two terms this way it becomes immediately clear that *Natural Selection* is, in a sense, a more general concept --- is says "if you select something that is, in some way, better and destroy the rest, then you will end up with something that is better than before". When we take this concept and apply it to a concrete domain, like biology, we get *Evolution*. We may, however, apply it to a different domain, like computer science, and get evolution of software or computer viruses (all the while, bearing in mind that the underlying principle is that of the *Natural Selection* -- with this confusion is minimal as to what these "complicated" things might mean).
+Here we see that *Evolution* is likened to the actual physical phenomena, what is observable. Whereas *Natural Selection* is likened to the principles by which the former may be explained. When looked at these two terms this way it becomes immediately clear that *Natural Selection* is, in a sense, a more general concept --- it says "if you select something that is, in some way, better and destroy the rest, then you will end up with something that is better than before". When we take this concept and apply it to a concrete domain, like biology, we get *Evolution*. We may, however, apply it to a different domain, like computer science, and get evolution of software or computer viruses (all the while, bearing in mind that the underlying principle is that of the *Natural Selection* --- with this, confusion is minimal as to what these "complicated" things might mean).
 
 Conclusion
 ==========
-Sometimes, when not clear about the definition of a certain term, it helps to contrast it with another. In doing so you will often find a certain relation that may define one in terms of the other. Just so with *Evolution*, which can be simply defined as *Natural Selection* acting in a particular real (and sometimes not) world scenario.
+Sometimes, when not clear about the definition of a certain term, it helps to contrast it with another. In doing so you will often find a certain relation between the two. Just so with *Evolution*, which can be simply defined as *Natural Selection* acting in a particular real (and sometimes not) world scenario.
 
-Lastly, I would like to recommend that you read at least the Preface to the Fisher's 1930 work *The genetical theory of natural selection*.
+Lastly, I would like to recommend that you read the Preface to the Fisher's 1930 work *The genetical theory of natural selection*.
 
 
 
