@@ -4,9 +4,9 @@ title: Natural Selection is not Evolution
 ---
 
 
-What do the terms *Natural Selection* and *Evolution* mean to you? Personally, for me, I have always been put off by how often these two words are used interchangeably. Casual phrases like "evolution by natural selection" are used as if the reader is read understands that evolution can proceed by some other means. But the most unfortunate part is how very few people take their time to read the original works and definitions and instead rely on the brief descriptions in a more modern work. This leads to misunderstanding and lack of common scientific language. So we end up using the terms like *Evolution* when we really mean *Natural Selection*.
+What do the terms *Natural Selection* and *Evolution* mean to you? Personally, for me, I have always been put off by how often these two words are used interchangeably. Casual phrases like "evolution by natural selection" are used as if the reader is assumed to understand that evolution can proceed by some other means. But the most unfortunate part is how very few people take their time to read the original works and definitions and instead rely on the brief descriptions in a more modern work. This leads to misunderstanding and lack of common scientific language. So we end up using the terms like *Evolution* when we really mean *Natural Selection*.
 
-In this post I am not going to define any terms. It is my belief that "defining" things never leads to any memorable understanding of the subject. Instead, I will present an interesting analogy proposed by R.S. Fisher in his monumental work entitled *The genetical theory of natural selection*, that will bring the two terms into proper relation to each other and will, hopefully, forever fix their meaning in your mind.
+In this post I am not going to define these terms. It is my belief that "defining" things never leads to any memorable understanding of the subject. Instead, I will present an interesting analogy proposed by R.S. Fisher in his monumental work entitled *The genetical theory of natural selection*, that will bring the two terms into proper relation to each other and will, hopefully, forever fix their meaning in your mind.
 
 Analogy
 =======
