@@ -4,7 +4,7 @@ title: Natural Selection is not Evolution
 ---
 
 
-What do the terms *Natural Selection* and *Evolution* mean to you? Personally, for me, I've always been put off by how often these two words are used interchangeably. Casual phrases like "evolution by natural selection" are used as if the reader is read understands that evolution can proceed by some other means. But the most unfortunate part is how very few people take their time to read the original works and definitions and instead rely on the brief descriptions in a more modern work. This leads to missunderstanding and lack of common scientific language. So we end up using the terms like *Evolution* when we really mean *Natural Selection*.
+What do the terms *Natural Selection* and *Evolution* mean to you? Personally, for me, I have always been put off by how often these two words are used interchangeably. Casual phrases like "evolution by natural selection" are used as if the reader is read understands that evolution can proceed by some other means. But the most unfortunate part is how very few people take their time to read the original works and definitions and instead rely on the brief descriptions in a more modern work. This leads to misunderstanding and lack of common scientific language. So we end up using the terms like *Evolution* when we really mean *Natural Selection*.
 
 In this post I am not going to define any terms. It is my belief that "defining" things never leads to any memorable understanding of the subject. Instead, I will present an interesting analogy proposed by R.S. Fisher in his monumental work entitled *The genetical theory of natural selection*, that will bring the two terms into proper relation to each other and will, hopefully, forever fix their meaning in your mind.
 
@@ -14,7 +14,7 @@ Fisher states the following (emphasis mine):
 
 > To draw a physical analogy, the *laws of conduction* of heat in solids might be deduced from the *principles of statistical mechanics*, yet it would have been an unfortunate limitation, involving probably a great deal of confusion, if *statistical mechanics* had only received consideration in connexion with the *conduction of heat*. In this case it is clear that the particular physical phenomena examined are of little theoretical interest compared to the principle by which they can be elucidated.
 
-This is an analogy to Natural Selection and Evolution, where the former is likened to the principles of statistical mechanics, while the latter - to the laws of conduction. Let us substitude these into the quote above (i.e. statistical mechanics = natural selection, law of conduction = evolution) to get an idea of the relation between them:
+This is an analogy to Natural Selection and Evolution, where the former is likened to the principles of statistical mechanics, while the latter - to the laws of conduction. Let us substitute these into the quote above (i.e. statistical mechanics = natural selection, law of conduction = evolution) to get an idea of the relation between them:
 
 > [To draw a physical analogy,] the *evolution* might be deduced from the *natural selection*, yet it would have been an unfortunate limitation, involving a great deal of confusion, if *natural selection* had only received consideration in connexion with the evolution. In this case it is clear that the particular physical phenomena [biological evolution] examined are of little theoretical interest compared to the principle by which they can be elucidated [natural selection].
 
