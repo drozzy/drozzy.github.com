@@ -5,8 +5,7 @@
                 <a name="{{post.id}}" style="text-decoration:none;color:black;" href="#{{post.id}}">{{post.title}}</a>
             </h1>
             <div>
-                By <a title="Email Me" href="mailto:drozzy@gmail.com">Andriy Drozdyuk</a> <em style='display:block;margin-bottom:15px;'>Posted
-                on {{post.date|date_to_long_string}}.</em>
+                <span class="date">{{post.date|date_to_long_string}}.</span>
             </div>
             {{post.content}}
         </div>
