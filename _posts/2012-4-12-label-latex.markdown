@@ -10,8 +10,7 @@ to try and remmember the order in which these things should go.
 
 Why this happens
 ================
-
-Perhaps if people know why this happens, it will be much easier to remember what goes where.
+The *why* will make it much easier to remember *what* goes where.
 
 Short version
 -------------
@@ -21,7 +20,7 @@ Caption command within a figure or table acts much like a sectioning command wit
 Longer version
 --------------
 
-To understand what is going on we must establish a few things. First, a label command when placed anywhere in the document will label the section of the document in which it is places. So something like this:
+To understand what is going on we must establish a few things. First, a label command when placed anywhere in the document will label the section of the document in which it is placed. So something like this:
 
     Section \ref{sec-one} is great!  
 
@@ -39,14 +38,14 @@ Will produce:
 
 
 Second, label command appearing in a *numbered* environment acts
-differently. Numbered environments are things like equation, eqnarray,
-enumerate, figure, table... In each of these environments the
-label command acts differently. For example, in eqnarray
+differently. Numbered environments are things like *equation, eqnarray,
+enumerate, figure, table*, etc. In each of these environments the
+label command acts differently. For example, in *eqnarray*
 environment the label can go anywhere before the \\\\ that ends the
-current equation - effectively giving each equation it's own label!
+current equation --- effectively giving each equation it's own label!
 
-The figure environment has different rules. In particular, the thing
-that creates numbering inside the figure environment is the caption
+The *figure* environment has different rules. In particular, the thing
+that creates numbering inside the *figure* environment is the *caption*
 command. A figure may have multiple captions, creating multiple
 "sections" within the figure. On other hand, if the caption command is
 never used, the label still uses the text numbering (which is the
@@ -81,4 +80,4 @@ difference!
 Reference
 =========
 
-I would be lying if I said that I figured this out *(no pun intended)* on my own. The book "LaTeX: A Document Preparation System (2nd Edition)" by Leslie Lamport---as old as it is---was the primary source for my understanding of this topic.
+I would be lying if I said that I figured this out on my own (pun not intentional). The book *LaTeX: A Document Preparation System (2nd Edition)* by Leslie Lamport, as old as it is, was the primary source for my understanding of this topic.
