@@ -15,6 +15,9 @@
     margin-bottom: 30px;
 }
 
+.page-title{
+  text-align: center;
+}
 blockquote p {
   font-size: 14px;
   line-height: 1.2;
