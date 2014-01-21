@@ -21,7 +21,7 @@ Here we see that *Evolution* is likened to the actual physical phenomena, what i
 
 Conclusion
 ==========
-Sometimes, when not clear about the definition of a certain term, it helps to contrast it with another. In doing so you will often find a certain relation between the two. Just so with *Evolution*, which can be simply defined as *Natural Selection* acting in a particular real (and sometimes not) world scenario.
+Sometimes, when we are not clear about the definitions of certain terms it helps to contrasts them each other. In doing so you will often find straightforward relations. Just so with *Evolution*, which can be simply defined as *Natural Selection* acting in a particular real (and sometimes not) world scenario.
 
 Lastly, I would like to recommend that you read the Preface to the Fisher's 1930 work *The genetical theory of natural selection*.
 
