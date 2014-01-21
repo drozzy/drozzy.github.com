@@ -11,14 +11,14 @@ layout: default_layout
 <div class="row">
 {% for post in site.posts  %}
     <div class="span6">
-      <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+      <h3><a href="{{post.url}}">{{post.title}}</a></h3>
       <div class="date">{{post.date|date_to_long_string}}</div>
       <p>
         {% for tag in post.tags %}<span class="label label-default">{{tag}}</span>{% endfor %}
       </p>
       <p>{{post.excerpt}}</p>
       <p>
-        <a class='btn btn-default' href="{{post.url}}">Read more</a>
+        <a class='btn btn-small btn-default' href="{{post.url}}">Read more</a>
       </p>
     </div>
 {% endfor %}
