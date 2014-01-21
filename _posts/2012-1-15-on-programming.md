@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Programming
-
+tags: programming
 ---
 
 Writers write. They say that if you want to be better at writing the only way to do it is to sit down and write.

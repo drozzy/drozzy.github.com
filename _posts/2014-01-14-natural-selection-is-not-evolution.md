@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Natural Selection is not Evolution
-
+tags: evolution
 ---
 
 What do the terms *Natural Selection* and *Evolution* mean to you? These two words are often used interchangeably. Casual phrases like "evolution by natural selection" imply the reader understands that evolution can proceed by some other means. Few people take their time to read the original works and definitions and instead rely on the brief descriptions in a more modern work. This leads to misunderstanding and lack of common scientific language. So we end up using the terms like *Evolution* when we really mean *Natural Selection*.
