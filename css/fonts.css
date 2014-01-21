@@ -14,9 +14,6 @@ body{
     line-height: 1.4;
     margin-bottom: 30px;
 }
-.post h1.post-title{
-  font-size: 38.5px;
-}
 .post h1{
    font-size: 31.5px;
    margin-bottom: 5px;
@@ -33,3 +30,8 @@ body{
     border-bottom: 1px dashed gray;
     margin-bottom: 40px;
 }
+.post h1.post-title{
+  font-size: 38.5px;
+  margin-bottom: 10px;
+}
+
