@@ -13,11 +13,15 @@ layout: default_layout
             <h1 class="post-title">
                 {{page.title}}
             </h1>
-            <div class="post-metadata">
-              {% for tag in page.tags %}<span class="label label-default">{{tag}}</span>{% endfor %}
-                <span class="date">{{page.date|date_to_long_string}}.</span>
-            </div>
             {{content}}
+
+            <div class="post-metadata">
+              {% for tag in page.tags %}
+              <span class="label label-default">{{tag}}</span>
+              {% endfor %}
+              <div class="date">{{page.date|date_to_long_string}}.</div>
+            </div>
+
         </div>
     </div>
 </div>

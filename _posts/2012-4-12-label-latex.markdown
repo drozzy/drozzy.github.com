@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Figuring out the Label and Caption in LaTeX
+tags: [latex]
 ---
 
 Sometimes, when you place the label and caption inside the figure out of order, you get 
