@@ -26,3 +26,7 @@ blockquote p {
 .contents-line{
   margin-bottom: 13px;
 }
+
+#footer{
+  text-align:right;
+}
