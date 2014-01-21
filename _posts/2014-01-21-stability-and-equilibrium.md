@@ -5,12 +5,7 @@ tags: [systems]
 ---
 
 
-Today I would like to take a look at two concepts we use in our
-everyday lives: stability and equilibrium. They both describe the behavior
-of some "thing". I will not use the term "system" here
-because it is not easily imagined. Instead, let us refer to the
-"thing" as a machine. So what does it mean for a machine to be at
-*equilibrium* and how does *stability* describe it's behavior?
+Today I would like to take a look at two concepts we use in our everyday lives: stability and equilibrium. They both describe the behavior of some "thing". I will not use the term "system" here because it is not easily imagined. Instead, let us refer to the "thing" as a machine. So what does it mean for a machine to be at *equilibrium* and how does *stability* describe it's behavior?
 
 
 Equilibrium
