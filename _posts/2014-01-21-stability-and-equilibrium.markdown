@@ -4,19 +4,13 @@ title: Stability and Equilibrium
 tags: [systems]
 ---
 
-Today I would like to take a look at two concepts we use in our
-everyday lives: stability and equilibrium. They both describe the
-behavior of some "thing". I will not use the term "system" here
-because it is not easily imagined. Instead, let us refer to the
-"thing" as a machine. So what does it mean for a machine to be at
-*equilibrium* and how does *stability* describe it's behavior?
+Today I would like to take a look at two concepts we use in our everyday lives: stability and equilibrium. They both describe the behavior of some *thing*. I will not use the term "system" here because it is not easily imagined. Instead, let us refer to the thing as a machine. So what does it mean for a machine to be at *equilibrium* and how does *stability* describe it's behavior?
 
 
 Equilibrium
 ===========
 
-Equilibrium is a state, that if entered into by a machine, will hold
-that machine captive there forever. In other words, if the machine is
+Equilibrium is a state, that if entered into by a machine, will hold that machine captive there forever. In other words, if the machine is
 in a state of equilibrium, then after any amount of time has passed it
 will remain in the same state. If, on the other hand, a machine is
 observed at a later time and found to be in a different state than
