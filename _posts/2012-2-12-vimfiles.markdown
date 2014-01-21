@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Better Vim Configuration
+tags: [programming]
 ---
 Having gotten tired of constantly re-configuring my Vim on every computer, I've
 decided to create a Git repository to store all the stuff. I've made it public,

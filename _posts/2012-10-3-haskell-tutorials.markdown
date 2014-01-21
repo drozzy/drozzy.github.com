@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tutorial on How to write a Haskell Tutorial
+tags: [programming]
 ---
 
 Over the course of reading many tutorials and examples for Haskell and it's libraries,
