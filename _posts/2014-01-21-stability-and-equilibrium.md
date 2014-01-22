@@ -17,9 +17,9 @@ What of the machine that is in a state of equilibrium, but when we observe it to
 
 # Stability
 
-Stability is how much disturbance can be applied to a machine such that it will still remain in the state of equilibrium. Whether machine is stable or not has everything to do with home much disturbance we can send its way.
+Stability is how much disturbance can be applied to a machine such that it will still return to the state of equilibrium. Whether machine is stable or not has everything to do with home much disturbance it can handle.
 
-Stability is not an "absolute" concept and only makes sense when we are talking about a machine in a state of equilibrium and a disturbance. There is no such thing as a stable machine. When we say that something is stable what we are in fact say is that for a given bunch of disturbances (i.e. of some magnitude or less) the machine will remain in its state of equilibrium. After all, even an elephant can be moved by a big enough disturbance, for example, a tidal wave.
+Stability is not an "absolute" concept and only makes sense when we are talking about a machine in a state of equilibrium and a given disturbance. There is no such thing as a stable machine. When we say that something is stable what we are in fact saying is that for a given disturbance (i.e. of some magnitude or less) the machine will eventually return to a state of equilibrium it was in before the disturbance was introduced. After all, even an elephant can be moved by a big enough disturbance, for example, a tidal wave.
 
 # Conclusion
 
