@@ -31,6 +31,8 @@ equilibrium? If so --- is it stable? What about an apple resting on
 top of the upside-down coffee mug? Is it stable or not? Can the
 machine that is not at equilibrium ever be stable?
 
+![Stability](/images/2014-01-14-stability.jpg)
+
 
 References
 ==========
