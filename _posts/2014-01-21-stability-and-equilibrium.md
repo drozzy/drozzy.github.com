@@ -37,7 +37,7 @@ machine that is not at equilibrium ever be stable?
 References
 ==========
 
-* W. R. Ashby, Introduction to Cybernetics (1956)
+# W. R. Ashby, Introduction to Cybernetics (1956)
 
 
 
