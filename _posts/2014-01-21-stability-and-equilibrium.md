@@ -15,7 +15,7 @@ equilibrium.
 
 What of the machine that is in a state of equilibrium, but when we observe it tomorrow we find it to be in a different state, all because somebody disturbed it overnight? What good is equilibrium if it can be destroyed by anybody? Can there be machines that are harder to displace from their equilibrium states? Think a cat or an elephant --- one will have a hard time "disturbing" an elephant!
 
-![Elephant](/images/2014-01-14-elephant)
+![Elephant](/images/2014-01-14-elephant.jpg)
 
 # Stability
 
