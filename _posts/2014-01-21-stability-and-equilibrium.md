@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stability and Equilibrium
-tags: [systems]
+tags: [cybernetics]
 ---
 
 Today I would like to take a look at two concepts we use in our everyday lives&#58; stability and equilibrium. They both describe the behavior of some *thing*. I will not use the term "system" here because it is not easily imagined. Instead, let us refer to the "thing" as a *machine*. So what does it mean for a machine to be at *equilibrium* and how does *stability* describe its behavior?
@@ -26,7 +26,7 @@ Stability is not an "absolute" concept and only makes sense when we are talking 
 # Conclusion
 
 While state of equilibrium is a property of the machine, it is
-important to remember that stability can only be defined only with respect to some disturbance. Now, is an apple in a bowl at a state of
+important to remember that stability can only be defined with respect to some disturbance. Now, is an apple in a bowl at a state of
 equilibrium? If so --- is it stable? What about an apple resting on
 top of the upside-down coffee mug? Is it stable or not? Can the
 machine that is not at equilibrium ever be stable?
